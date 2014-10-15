@@ -1,7 +1,7 @@
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
-  max-width: 700px; }
+  max-width: 660px; }
 
 .container-narrow > hr {
   margin: 30px 0; }
@@ -63,3 +63,34 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+/* Improve typography */
+
+#content-body {
+  color: #555;
+  font-size: 1.25em;
+  line-height: 2.0em;
+}
+
+/*.nav {
+  font-size: 14px;
+  line-height: 20px;
+}*/
+
+p {
+  margin-bottom: 20px;
+}
+
+.post-full li {
+  margin-bottom: 10px;
+  line-height: 2.0em;
+}
+
+.post-full ul {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.post-header {
+  margin-top: 40px;
+}

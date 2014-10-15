@@ -5,17 +5,19 @@ permalink: /:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
+paginate: 10
+
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Você Fiscal
+title: Você Fiscal
 tagline: Fiscalize a Eleição, Garanta seu Voto
-author :
-  name : Você Fiscal
-  email : contato@vocefiscal.org
-  github : vocefiscal
-  twitter : vocefiscal
-  # feedburner : feedname
+author:
+  name: Você Fiscal
+  email: contato@vocefiscal.org
+  github: vocefiscal
+  twitter: vocefiscal
+  # feedburner: feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -25,12 +27,12 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://www.vocefiscal.org/blog
+production_url: http://www.vocefiscal.org/blog
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
-JB :
-  version : 0.3.0
+JB:
+  version: 0.3.0
 
   # All links will be namespaced by BASE_PATH if defined.
   # Links in your website should always be prefixed with {{BASE_PATH}}
@@ -54,7 +56,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://www.vocefiscal.org/blog
+  BASE_PATH: http://www.vocefiscal.org/blog
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -64,31 +66,31 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : false
+  ASSET_PATH: false
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
   archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
-  atom_path : /atom.xml
-  rss_path : /rss.xml
+  categories_path: /categories.html
+  tags_path: /tags.html
+  atom_path: /atom.xml
+  rss_path: /rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  comments :
-    provider : disqus
-    disqus :
-      short_name : vocefiscal
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      appid : 123
+  comments:
+    provider: disqus
+    disqus:
+      short_name: vocefiscal
+    livefyre:
+      site_id: 123
+    intensedebate:
+      account: 123abc
+    facebook:
+      appid: 123
       num_posts: 5
       width: 580
       colorscheme: light
@@ -97,31 +99,31 @@ JB :
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
   #
-  analytics :
-    provider : google
-    google :
-        tracking_id : 'UA-655556-28'
-    getclicky :
-      site_id :
-    mixpanel :
-        token : '_MIXPANEL_TOKEN_'
-    piwik :
-        baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
-        idsite : '1'                   # the id of the site on Piwik
+  analytics:
+    provider: google
+    google:
+        tracking_id: 'UA-655556-28'
+    getclicky:
+      site_id:
+    mixpanel:
+        token: '_MIXPANEL_TOKEN_'
+    piwik:
+        baseURL: 'myserver.tld/piwik' # Piwik installation address (without protocol)
+        idsite: '1'                   # the id of the site on Piwik
 
   # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
   # Set 'provider' to the sharing provider you want to use.
   # Set 'provider' to false to turn sharing off globally.
   #
-  sharing :
-    provider : plusone
+  sharing:
+    provider: plusone
 
   # Settings for all other include helpers can be defined by creating
   # a hash with key named for the given helper. ex:
   #
-  #   pages_list :
-  #     provider : "custom"
+  #   pages_list:
+  #     provider: "custom"
   #
   # Setting any helper's provider to 'custom' will bypass the helper code
   # and include your custom code. Your custom file must be defined at:
