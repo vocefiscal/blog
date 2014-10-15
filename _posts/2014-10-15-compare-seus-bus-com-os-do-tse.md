@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tirou fotos do BU? Compare com a versão digital do TSE
+tagline: Lições do 1º turno e preparação para o segundo
 tags : [boletim-de-urna]
 ---
 **Neste 1º turno, aprendemos muito.**
