@@ -13,6 +13,12 @@
       <div class="content">
         {{ content }}
       </div>
+      <p>
+        Compartilhe no:
+        <a href="https://facebook.com/sharer.php?u={{ BASE_PATH }}{{ page.url | uri_escape }}">Facebook</a> |
+        <a href="https://twitter.com/intent/tweet?url={{ BASE_PATH }}{{ page.url | uri_escape }}&text={{ page.title | uri_escape }}&via={{ site.author.twitter }}">Twitter</a> |
+        <a href="https://plus.google.com/share?url={{ BASE_PATH }}{{ page.url | uri_escape }}">Google+</a>
+      </p>
       <hr />
     {% unless page.categories == empty %}
       <ul class="tag_box inline">
@@ -47,12 +53,6 @@
         </ul>
       </div>
       <hr>
-      <p>
-        Compartilhe no:
-        <a href="https://facebook.com/sharer.php?u={{ BASE_PATH }}{{ page.url | uri_escape }}">Facebook</a> |
-        <a href="https://twitter.com/intent/tweet?url={{ BASE_PATH }}{{ page.url | uri_escape }}&text={{ page.title | uri_escape }}&via={{ site.author.twitter }}">Twitter</a> |
-        <a href="https://plus.google.com/share?url={{ BASE_PATH }}{{ page.url | uri_escape }}">Google+</a>
-      </p>
       {% include JB/comments %}
     </div>
   </div>

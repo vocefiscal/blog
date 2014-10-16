@@ -17,6 +17,12 @@ layout: page
         <div class="content">
           {{ post.content }}
         </div>
+        <p>
+          Compartilhe no:
+          <a href="https://facebook.com/sharer.php?u={{ BASE_PATH }}{{ post.url | uri_escape }}">Facebook</a> |
+          <a href="https://twitter.com/intent/tweet?url={{ BASE_PATH }}{{ post.url | uri_escape }}&text={{ post.title | uri_escape }}&via={{ site.author.twitter }}">Twitter</a> |
+          <a href="https://plus.google.com/share?url={{ BASE_PATH }}{{ post.url | uri_escape }}">Google+</a>
+        </p>
         <hr />
       {% unless post.categories == empty %}
         <ul class="tag_box inline">
