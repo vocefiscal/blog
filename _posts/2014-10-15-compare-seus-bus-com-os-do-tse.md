@@ -20,7 +20,7 @@ Somando as dificuldades com algumas das fotos do aplicativo à falta de estrutur
 
 Para o 2º turno, já corrigimos as falhas do aplicativo e será possível enviar os BUs fiscalizados para o site, assim como checá-los coletivamente. O BU do 2º turno também será muito menor e mais fácil de fotografar.
 
-**Para agilizarmos uma primeira análise dos BUs do 1º turno, vamos precisar da sua ajuda.** É fácil participar: no link abaixo damos instruções de como comparar os BUs que você fiscalizou com a versão oficial divulgada pelo TSE, em 4 passos simples.
+**Para agilizarmos uma *primeira análise* dos BUs do 1º turno, vamos precisar da sua ajuda.** É fácil participar: no link abaixo damos instruções de como comparar os BUs que você fiscalizou com a versão oficial divulgada pelo TSE, em 4 passos simples.
 
 **» Veja como conferir seu BU:** [http://www.vocefiscal.org/vemproBU#conferencia](http://www.vocefiscal.org/vemproBU#conferencia)
 
