@@ -31,4 +31,10 @@ Não deveria ser necessário, mas caso você tenha sido impedido de fotografar o
 
 Vamos aproveitar toda a experiência do 1º turno para fiscalizarmos ainda melhor o 2º!
 
-Use nossas imagens e sua imaginação para criar o seu material, tire uma foto com sua camiseta, crachá ou outra identificação e compartilhe na nossa página com a hashtag #vemproBU.  Vamos mostrar a nossa força!
+Use nossas imagens e sua imaginação para criar o seu material, tire uma foto com sua camiseta, crachá ou outra identificação e compartilhe na nossa página com a hashtag #vemproBU.
+
+Vamos mostrar a nossa força!
+
+[Tirou fotos do BU no 1º turno? Compare com a versão digital do TSE](http://www.vocefiscal.org/blog/compare-seus-bus-com-os-do-tse/)
+
+Não conseguiu fiscalizar o 1º turno, mas quer participar como fiscal no segundo? [Adote sua zona eleitoral](http://somos.vocefiscal.org/)
