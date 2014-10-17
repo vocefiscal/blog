@@ -91,6 +91,11 @@ p {
   margin-bottom: 20px;
 }
 
+.post-full blockquote p {
+  font-size: 1.25em;
+  line-height: 1.8em;
+}
+
 .post-header {
   margin-top: 40px;
 }
