@@ -6,8 +6,6 @@ tags:
   - "boletim-de-urna"
 ---
 
-## Como se preparar para fiscalizar o 2º turno
-
 Recebemos muitos relatos de eleitores que foram até as seções eleitorais para fiscalizar os boletins de urna do 1º turno e foram impedidos.
 
 Proibir eleitores de terem acesso a um documento que, [por lei](https://bit.ly/bu-obrigatorio), **deve ser afixado em local publicamente visível** é um sinal do quanto estamos distantes de um sistema de votação 100% auditável.
