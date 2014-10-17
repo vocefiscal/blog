@@ -24,10 +24,10 @@ Outra forma de identificação como fiscal independente é **fazer um [crachá](
 
 Além de ir identificado como um fiscal independente, lembre-se:
 
-- chegue **bem antes das 17h** para poder entrar no local de votação;
-- **leve impresso** o documento com trechos da [resolução 23.399 do TSE](https://bit.ly/bu-obrigatorio);
-- **converse** com os mesários e o presidente da seção, explique o projeto e pergunte se podem imprimir uma via do BU para você;
-- **leve alguém** da família ou um(a) amigo(a) para te acompanhar (é mais difícil dizer não para mais de uma pessoa, você terá ajuda para fotografar os BUs e uma testemunha caso algo ocorra).
+* chegue **bem antes das 17h** para poder entrar no local de votação;
+* **leve impresso** o documento com trechos da [resolução 23.399 do TSE](https://bit.ly/bu-obrigatorio);
+* **converse** com os mesários e o presidente da seção, explique o projeto e pergunte se podem imprimir uma via do BU para você;
+* **leve alguém** da família ou um(a) amigo(a) para te acompanhar (é mais difícil dizer não para mais de uma pessoa, você terá ajuda para fotografar os BUs e uma testemunha caso algo ocorra).
 
 Não deveria ser necessário, mas caso você tenha sido impedido de fotografar o BU no 1º turno, pode **levar ao cartório eleitoral** da sua cidade um ofício ou solicitação para que o juiz eleitoral ou chefe do cartório assinem uma **permissão para que você tenha acesso ao BU** no fim da votação. Faça isso com alguns dias de antecedência e lembre-se de mencionar no documento a ser assinado os termos da resolução 23.999, ela garante o seu direito. Tenha a permissão em mãos no dia da votação e mostre-a ao mesário responsável pela seção.
 
