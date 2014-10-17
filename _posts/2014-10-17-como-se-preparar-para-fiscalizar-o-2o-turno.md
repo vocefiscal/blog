@@ -23,6 +23,7 @@ Um dos relatos que chamou nossa atenção no Facebook foi o de um fiscal que rec
 Outra forma de identificação como fiscal independente é **fazer um [crachá](https://bit.ly/vocefiscal-cracha)**, idéia simples e genial do [Guilherme](https://www.facebook.com/video.php?v=696197140465230&set=vb.100002248529100&type=2&theater). **Você pode baixar a arte [aqui](https://bit.ly/vocefiscal-cracha).**
 
 Além de ir identificado como um fiscal independente, lembre-se:
+
 - chegue **bem antes das 17h** para poder entrar no local de votação;
 - **leve impresso** o documento com trechos da [resolução 23.399 do TSE](https://bit.ly/bu-obrigatorio);
 - **converse** com os mesários e o presidente da seção, explique o projeto e pergunte se podem imprimir uma via do BU para você;
