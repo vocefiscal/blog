@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Como se preparar para fiscalizar o 2º turno
 tags: 
