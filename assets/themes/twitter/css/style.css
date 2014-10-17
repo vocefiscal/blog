@@ -99,3 +99,7 @@ p {
 .post-header {
   margin-top: 40px;
 }
+
+.post-full h4 {
+  line-height: 2.0em;
+}
