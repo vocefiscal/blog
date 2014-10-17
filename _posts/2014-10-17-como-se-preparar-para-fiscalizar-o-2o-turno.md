@@ -35,6 +35,7 @@ Use nossas imagens e sua imaginação para criar o seu material, tire uma foto c
 
 Vamos mostrar a nossa força!
 
+
 ---
 ### [Tirou fotos do BU no 1º turno? Compare com a versão digital do TSE.](http://www.vocefiscal.org/blog/compare-seus-bus-com-os-do-tse/)
 
