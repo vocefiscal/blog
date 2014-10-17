@@ -35,6 +35,6 @@ Use nossas imagens e sua imaginação para criar o seu material, tire uma foto c
 
 Vamos mostrar a nossa força!
 
-[Tirou fotos do BU no 1º turno? Compare com a versão digital do TSE](http://www.vocefiscal.org/blog/compare-seus-bus-com-os-do-tse/)
+### [Tirou fotos do BU no 1º turno? Compare com a versão digital do TSE.](http://www.vocefiscal.org/blog/compare-seus-bus-com-os-do-tse/)
 
-Não conseguiu fiscalizar o 1º turno, mas quer participar como fiscal no segundo? [Adote sua zona eleitoral](http://somos.vocefiscal.org/)
+### Não conseguiu fiscalizar o 1º turno, mas quer participar como fiscal no segundo? [Adote sua zona eleitoral](http://somos.vocefiscal.org/)
