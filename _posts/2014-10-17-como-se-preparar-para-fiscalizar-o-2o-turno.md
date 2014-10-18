@@ -14,7 +14,7 @@ Por falta de informação e treinamento das equipes que trabalhavam nestas seç�
 
 Um dos relatos que chamou nossa atenção no Facebook foi o de um fiscal que recebeu o seguinte conselho na seção eleitoral: **venha identificado da próxima vez**. Assim, se você quiser fazer como o [Wellington](https://www.facebook.com/photo.php?fbid=772569649466862&set=a.103307106393123.4273.100001415020485&type=1&theater), que "vestiu a camisa" ganhada como recompensa pela contribuição à nossa campanha no Catarse, pode **mandar estampar a sua** com as imagens que disponibilizamos [aqui](http://bit.ly/vocefiscal-camisetas) ou **pedir uma pronta** no site [vitrinepix](http://www.vitrinepix.com.br/vocefiscal/) (confira o prazo de entrega antes de confirmar o pedido).
 
-![](http://i.imgur.com/NUl6ZKV.png)
+[![](http://i.imgur.com/NUl6ZKV.png)](http://www.vitrinepix.com.br/vocefiscal/compre/produto/326054/Camiseta-Voc-Fiscal)
 
 É importante esclarecer que a opção de encomendar a camiseta pronta é apenas para facilitar a vida de quem não tem como mandar estampar a própria. O processo é inteiramente terceirizado e **o Você Fiscal não receberá nenhuma porcentagem** do valor da compra das camisetas.
 
@@ -27,7 +27,7 @@ Além de ir identificado como um fiscal independente, lembre-se:
 * **converse** com os mesários e o presidente da seção, explique o projeto e pergunte se podem imprimir uma via do BU para você;
 * **leve alguém** da família ou um(a) amigo(a) para te acompanhar (é mais difícil dizer não para mais de uma pessoa, você terá ajuda para fotografar os BUs e uma testemunha caso algo ocorra).
 
-Não deveria ser necessário, mas caso você tenha sido impedido de fotografar o BU no 1º turno, pode **levar ao cartório eleitoral** da sua cidade um ofício ou solicitação para que o juiz eleitoral ou chefe do cartório assinem uma **permissão para que você tenha acesso ao BU** no fim da votação. Faça isso com alguns dias de antecedência e lembre-se de mencionar no documento a ser assinado os termos da resolução 23.999, ela garante o seu direito. Tenha a permissão em mãos no dia da votação e mostre-a ao mesário responsável pela seção.
+Não deveria ser necessário, mas caso você tenha sido impedido de fotografar o BU no 1º turno, pode **ir ao cartório eleitoral** da sua cidade e solicitar que o juiz eleitoral ou chefe do cartório assinem uma **permissão para que você tenha acesso ao BU** no fim da votação. Faça isso com alguns dias de antecedência e lembre-se de mencionar os termos da resolução 23.999, ela garante o seu direito. Tenha a permissão em mãos no dia da votação e mostre-a ao mesário responsável pela seção.
 
 Vamos aproveitar toda a experiência do 1º turno para fiscalizarmos ainda melhor o 2º!
 
@@ -37,6 +37,7 @@ Vamos mostrar a nossa força!
 
 
 ---
+
 ### [Tirou fotos do BU no 1º turno? Compare com a versão digital do TSE.](http://www.vocefiscal.org/blog/compare-seus-bus-com-os-do-tse/)
 
 ### Não conseguiu fiscalizar o 1º turno, mas quer participar como fiscal no segundo? [Adote sua zona eleitoral](http://somos.vocefiscal.org/)
