@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Primeiro relatório técnico do primeiro turno
-tagline: Após duas semanas de muito trabalho após o primeiro turno, podemos compartilhar o progresso atual do projeto
+title: Relatório parcial do 1º turno
+tagline: Após duas semanas de muito trabalho, compartilhamos relatório técnico com o progresso da análise
 tags : [boletim-de-urna]
 ---
 
