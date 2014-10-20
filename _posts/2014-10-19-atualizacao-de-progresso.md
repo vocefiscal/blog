@@ -4,12 +4,14 @@ title: Atualização de progresso!
 tags : [atualizacao-progresso]
 ---
 
+Após duas semanas de muito trabalho após o primeiro turno, podemos compartilhar o progresso atual do projeto!
+
 O tratamento inicial das imagens tinha duas etapas: "costura" das fotos de um 
 mesmo Boletim de Urna em uma foto única e extração da informação na imagem 
 resultante através de reconhecimento de caracteres. O objetivo da costura é 
 aprimorar a usabilidade, para produzir uma imagem única de fácil comparação 
-visual com o Boletim de Urna eletrônico publicado no site do TSE. A extração de 
-informação é a etapa mais crítica, pois permite verificar se as quantidades de 
+visual com o Boletim de Urna eletrônico [publicado no site do TSE](http://www.tse.jus.br/eleicoes/eleicoes-2014/boletim-de-urna-na-web).
+A extração de informação é a etapa mais crítica, pois permite verificar se as quantidades de 
 votos são compatíveis entre Boletim de Urna impresso e eletrônico.
 
 Para a primeira etapa, utlizamos o algoritmo de costura da biblioteca em código 
@@ -33,9 +35,9 @@ especificamente para a fonte da urna eletrônica. Os arquivos de treinamento
 estão no [repositório](http://github.com/vocefiscal-backend). Em primeiro lugar, 
 aplicamos binarização como pré-processamento, para destacar o texto do fundo.
 
-![](https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00.jpg)
+![](https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00.jpg =100x)
 
-![](https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00-binary.jpg)
+![](https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00-binary.jpg =100x)
 
 
 Após o pré-processamento, o reconhecimento de caracteres é capaz de recuperar a maior parte do texto na 
