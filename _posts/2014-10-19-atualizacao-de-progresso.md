@@ -19,9 +19,7 @@ O objetivo da costura é aprimorar a usabilidade, para produzir uma imagem únic
 de fácil comparação visual com o Boletim de Urna eletrônico [publicado no site
 do TSE](http://www.tse.jus.br/eleicoes/eleicoes-2014/boletim-de-urna-na-web). A
 extração de informação é a etapa mais crítica, pois permite verificar se as
-quantidades de votos são compatíveis entre Boletim de Urna impresso e
-eletrônico.
-
+quantidades de votos são compatíveis entre Boletim de Urna impresso e234
 Para a primeira etapa, utlizamos o algoritmo de costura da biblioteca em código
 aberto [OpenCV](http://opencv.org/). Os resultados preliminares foram animadores
 e gerados rapidamente para Boletins de Urna compostos por poucas imagens,
@@ -96,16 +94,21 @@ Como resultado, fomos capazes de confirmar a origem de 7671 dos 11530 Boletins
 de Urna recebidos, que seguem agora para extração das demais informações.
 Inúmeros erros de preenchimento foram corrigidos, produzindo portanto três bases
 distintas, disponíveis no
-[repositório](https://github.com/vocefiscal/vocefiscal-backend). A primeira base
-(**base-original.zip**) contém os metadados brutos, apenas anonimizados. A
-segunda base (**base-corrigida.zip**) contém os metadados separados após triagem
-e correção de erros de preenchimento. A terceira base (**base-organizada.zip**)
-contém os metadados organizados por município/zona/seção eleitoral. Os Boletins
-de Urna cuja origem não foi confirmada ainda não foram descartados, mas
-precisarão de outra estratégia de confirmação, possivelmente o código de carga
-impresso no final do documento. As estatísticas de submissão por estado podem
-ser encontradas abaixo, onde a última coluna exibe quantas submissões daquele
-estado tiveram origem confirmada:
+[repositório](https://github.com/vocefiscal/vocefiscal-backend):
+
+1. A primeira base (**base-original.zip**) contém os metadados brutos, apenas
+anonimizados.
+
+2. A segunda base (**base-corrigida.zip**) contém os metadados separados após triagem
+e correção de erros de preenchimento.
+
+3. A terceira base (**base-organizada.zip**) contém os metadados organizados por município/zona/seção eleitoral.
+
+Os Boletins de Urna cuja origem não foi confirmada ainda não foram descartados,
+mas precisarão de outra estratégia de confirmação, possivelmente o código de
+carga impresso no final do documento. As estatísticas de submissão por estado
+podem ser encontradas abaixo, onde a última coluna exibe quantas submissões
+daquele estado tiveram origem confirmada:
 
 U.F.|Total|Confirmados|U.F.|Total |Confirmados
 :-|:-:|:-:|:-|:-:|:-:|
@@ -123,3 +126,17 @@ MG|1334  |973 |SE|38    |23
 MS|193   |127 |SP|3249  |2102
 MT|164   |117 |TO|66    |30  
 PA|105   |81  |ZZ|71    |68  
+
+## Segundo turno
+
+A análise dos dados do 1º turno continua, mas o 2º turno não pode esperar.
+
+Aprendemos muito, e o segundo tem que ser ainda melhor, com mais BUs fiscalizados e a experiência acumulada na metodologia de análise. Participe:
+
+* Baixe o aplicativo: [https://play.google.com/store/apps/details?id=org.vocefiscal](https://play.google.com/store/apps/details?id=org.vocefiscal)
+
+* Imprima e leve com você no dia da eleição o trecho da lei que garante seu direito de fotografar os Boletins de Urna: [http://bit.ly/bu-obrigatorio](http://bit.ly/bu-obrigatorio)
+
+* Junte-se ao [Mutirão do 2º Turno](https://www.facebook.com/events/398148680339505/) e traga mais pessoas para fiscalizar com você: [https://www.facebook.com/events/398148680339505/](https://www.facebook.com/events/398148680339505/)
+
+Vamos levar a fiscalização cidadã a todos os cantos do país!
