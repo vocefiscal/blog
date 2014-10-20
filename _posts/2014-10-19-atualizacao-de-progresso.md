@@ -31,17 +31,16 @@ suficiente. Continuamos trabalhando nessa direção!
 Para a segunda etapa de reconhecimento de caracteres, estamos utilizando o motor 
 de código aberto [Tesseract](https://code.google.com/p/tesseract-ocr/), treinado 
 especificamente para a fonte da urna eletrônica. Os arquivos de treinamento 
-estão no [repositório](https://github.com/vocefiscal/vocefiscal-backend). Em primeiro lugar, 
-aplicamos binarização como pré-processamento, para destacar o texto do fundo.
+estão no [repositório](https://github.com/vocefiscal/vocefiscal-backend) e enfatizam o reconhecimento de números.
+Em primeiro lugar, aplicamos binarização como pré-processamento, para destacar o texto do fundo.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00.jpg" width="300">
 <img src="https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00-binary.jpg" width="300">
 </div>
 
-Após o pré-processamento, o reconhecimento de caracteres é capaz de recuperar a maior parte do texto na 
-imagem, especialmente quando o treinamento é realizado com imagens já 
-binarizadas:
+Após o pré-processamento, o reconhecimento de caracteres é capaz de recuperar a maior parte da informação na 
+imagem, especialmente quando o treinamento é realizado com imagens já binarizadas:
 
 <pre>
 Justiça Eleitorall
