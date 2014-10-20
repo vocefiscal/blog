@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Atualização de progresso!
+tagline: Após duas semanas de muito trabalho após o primeiro turno, podemos compartilhar o progresso atual do projeto!
 tags : [atualizacao-progresso]
 ---
-
-Após duas semanas de muito trabalho após o primeiro turno, podemos compartilhar o progresso atual do projeto!
 
 O tratamento inicial das imagens consistia em duas etapas: "costura" das fotos de um 
 mesmo Boletim de Urna em uma foto única e extração da informação na imagem 
@@ -93,7 +92,7 @@ código de carga impresso no final do documento. As estatísticas de submissão 
 estado podem ser encontradas abaixo, onde a última coluna exibe quantas submissões daquele estado tiveram
 origem confirmada:
 
-U.F.|Total |Confirmados  |U.F.|Total |Confirmados
+U.F.|Total|Confirmados|U.F.|Total |Confirmados
 :-|:-:|:-:|:-|:-:|:-:|
 AC|8     |8   |PB|52    |33  
 AL|45    |41  |PE|223   |179 
