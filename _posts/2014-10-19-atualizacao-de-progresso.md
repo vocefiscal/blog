@@ -32,8 +32,9 @@ suficiente. Continuamos trabalhando nessa direção!
 Para a segunda etapa de reconhecimento de caracteres, estamos utilizando o motor 
 de código aberto [Tesseract](https://code.google.com/p/tesseract-ocr/), treinado 
 especificamente para a fonte da urna eletrônica. Os arquivos de treinamento 
-estão no [repositório](http://github.com/vocefiscal-backend). Em primeiro lugar, 
+estão no [repositório](https://github.com/vocefiscal/vocefiscal-backend). Em primeiro lugar, 
 aplicamos binarização como pré-processamento, para destacar o texto do fundo.
+
 
 ![](https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00.jpg =100x)
 
@@ -46,26 +47,47 @@ binarizadas:
 
 ```
 Justiça Eleitorall
+
 Tribunal Regional Eleitoral [sp]
+
 Boletim de Urna
+
 Eleições Gerais 2014
+
 iº Turno
+
 (05/10/2014)
+
 Município 63134
+
 CARAPlCUlBA
+
 Zona Eleitoral 0303
+
 Local de Votação 1384
+
 Seção Eleitoral 0379
+
 Eleitores aptos 0340
+
 Comparecimento 0274
+
 Eleitores faltosos 0066
+
 Código identificação UE 01564145
+
 Data de abertura da UE 05/10/2014
+
 Horário de abertura 08:00 00
+
 Data de fechamento da UE 05/10/2014
+
 Horário de fechamento 17:01:01
+
 RESUMO DA CORRESPONDÊNClA
+
 630:382
+
 Código Verificador: 68950
 ```
 
@@ -84,7 +106,7 @@ tão grande.
 Como resultado, fomos capazes de confirmar a origem de 7671 dos 11530 Boletins 
 de Urna recebidos, que seguem agora para extração das demais informações. 
 Inúmeros erros de preenchimento foram corrigidos, produzindo portanto três bases 
-distintas, disponíveis no [repositório](http://github.com/vocefiscal-backend). A primeira base (**base-original.zip**)
+distintas, disponíveis no [repositório](https://github.com/vocefiscal/vocefiscal-backend). A primeira base (**base-original.zip**)
 contém os metadados brutos, apenas anonimizados. A segunda base (**base-corrigida.zip**) contém os 
 metadados separados após triagem e correção de erros de preenchimento. A 
 terceira base (**base-organizada.zip**) contém os metadados organizados por município/zona/seção 
