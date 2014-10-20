@@ -35,8 +35,8 @@ especificamente para a fonte da urna eletrônica. Os arquivos de treinamento
 estão no [repositório](https://github.com/vocefiscal/vocefiscal-backend). Em primeiro lugar, 
 aplicamos binarização como pré-processamento, para destacar o texto do fundo.
 
-<img src="https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00.jpg" width="100">
-<img src="https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00-binary.jpg" width="100">
+<img src="https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00.jpg" width="200">
+<img src="https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00-binary.jpg" width="200">
 
 Após o pré-processamento, o reconhecimento de caracteres é capaz de recuperar a maior parte do texto na 
 imagem, especialmente quando o treinamento é realizado com imagens já 
