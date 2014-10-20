@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Atualização de progresso!
-tagline: E se um monte de gente fiscalizar e nenhuma fraude for encontrada? Foi em vão? Acabou o Você Fiscal? Significa que a urna é segura mesmo e a partir de então podemos confiar?
-tags : [voto-auditavel]
+tags : [atualizacao-progresso]
 ---
 
 O tratamento inicial das imagens tinha duas etapas: "costura" das fotos de um 
