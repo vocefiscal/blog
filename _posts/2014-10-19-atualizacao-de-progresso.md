@@ -5,7 +5,7 @@ tagline: Após duas semanas de muito trabalho após o primeiro turno, podemos co
 tags : [atualizacao-progresso]
 ---
 
-O tratamento inicial das imagens consistia em duas etapas: "costura" das fotos de um 
+O tratamento das imagens consiste em duas etapas: "costura" das fotos de um 
 mesmo Boletim de Urna em uma foto única e extração da informação na imagem 
 resultante através de reconhecimento de caracteres. O objetivo da costura é 
 aprimorar a usabilidade, para produzir uma imagem única de fácil comparação 
