@@ -7,12 +7,17 @@ tags : [boletim-de-urna]
 
 O tratamento das imagens dos [Boletins de
 Urna](http://www.vocefiscal.org/blog/entenda-o-voce-fiscal-em-7-passos/)
-consiste em duas etapas: "costura" das fotos de um mesmo Boletim de Urna em uma
-foto única e extração da informação na imagem resultante através de
-reconhecimento de caracteres. O objetivo da costura é aprimorar a usabilidade,
-para produzir uma imagem única de fácil comparação visual com o Boletim de Urna
-eletrônico [publicado no site do
-TSE](http://www.tse.jus.br/eleicoes/eleicoes-2014/boletim-de-urna-na-web). A
+consiste em duas etapas:
+
+1. "costura" das fotos de um mesmo Boletim de Urna em uma
+foto única;
+
+2. extração da informação na imagem resultante através de
+reconhecimento de caracteres.
+
+O objetivo da costura é aprimorar a usabilidade, para produzir uma imagem única
+de fácil comparação visual com o Boletim de Urna eletrônico [publicado no site
+do TSE](http://www.tse.jus.br/eleicoes/eleicoes-2014/boletim-de-urna-na-web). A
 extração de informação é a etapa mais crítica, pois permite verificar se as
 quantidades de votos são compatíveis entre Boletim de Urna impresso e
 eletrônico.
