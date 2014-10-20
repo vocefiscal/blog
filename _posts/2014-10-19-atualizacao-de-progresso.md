@@ -93,8 +93,9 @@ código de carga impresso no final do documento. As estatísticas de submissão 
 estado podem ser encontradas abaixo, onde a última coluna exibe quantas submissões daquele estado tiveram
 origem confirmada:
 
+<div align="center">
 |U.F.|Total |Confirmados  |U.F.|Total |Confirmados  |
-|:-|:----:|:--:|:-|:----:|:--:|
+|:-|:-:|:-:|:-|:-:|:-:|
 |AC|8     |8   |PB|52    |33  |
 |AL|45    |41  |PE|223   |179 |
 |AM|51    |19  |PI|30    |20  |
@@ -109,17 +110,5 @@ origem confirmada:
 |MS|193   |127 |SP|3249  |2102|
 |MT|164   |117 |TO|66    |30  |
 |PA|105   |81  |ZZ|71    |68  |
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
 
