@@ -6,7 +6,7 @@ tags : [atualizacao-progresso]
 
 Após duas semanas de muito trabalho após o primeiro turno, podemos compartilhar o progresso atual do projeto!
 
-O tratamento inicial das imagens tinha duas etapas: "costura" das fotos de um 
+O tratamento inicial das imagens consistia em duas etapas: "costura" das fotos de um 
 mesmo Boletim de Urna em uma foto única e extração da informação na imagem 
 resultante através de reconhecimento de caracteres. O objetivo da costura é 
 aprimorar a usabilidade, para produzir uma imagem única de fácil comparação 
@@ -36,10 +36,9 @@ estão no [repositório](https://github.com/vocefiscal/vocefiscal-backend). Em p
 aplicamos binarização como pré-processamento, para destacar o texto do fundo.
 
 
-![](https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00.jpg =100x)
+<img src="https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00.jpg" style="width:100">
 
-![](https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00-binary.jpg =100x)
-
+<img src="https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00-binary.jpg" style="width:100">
 
 Após o pré-processamento, o reconhecimento de caracteres é capaz de recuperar a maior parte do texto na 
 imagem, especialmente quando o treinamento é realizado com imagens já 
