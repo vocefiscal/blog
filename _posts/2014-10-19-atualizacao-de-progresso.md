@@ -139,4 +139,4 @@ Aprendemos muito, e o segundo tem que ser ainda melhor, com mais BUs fiscalizado
 
 * Junte-se ao [Mutirão do 2º Turno](https://www.facebook.com/events/398148680339505/) e traga mais pessoas para fiscalizar com você: [https://www.facebook.com/events/398148680339505/](https://www.facebook.com/events/398148680339505/)
 
-Vamos levar a fiscalização cidadã a todos os cantos do país!
+Vamos levar a fiscalização cidadã a todos os cantos do país! [É preciso fiscalizar sempre.](http://www.vocefiscal.org/blog/e-se-o-voce-fiscal-nao-encontrar-nenhuma-fraude/)
