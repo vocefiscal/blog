@@ -93,7 +93,7 @@ código de carga impresso no final do documento. As estatísticas de submissão 
 estado podem ser encontradas abaixo, onde a última coluna exibe quantas submissões daquele estado tiveram
 origem confirmada:
 
-|UF|TOTAL |OK  |UF|TOTAL |OK  |
+|Unidade Federativa|Total |Confirmados  |Unidade Federativa|Total |Confirmados  |
 |:-|:----:|:--:|:-|:----:|:--:|
 |AC|8     |8   |PB|52    |33  |
 |AL|45    |41  |PE|223   |179 |
