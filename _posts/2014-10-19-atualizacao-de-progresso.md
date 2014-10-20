@@ -93,33 +93,33 @@ código de carga impresso no final do documento. As estatísticas de submissão 
 estado podem ser encontradas abaixo, onde a última coluna exibe quantas submissões daquele estado tiveram
 origem confirmada:
 
-|UF|TOTAL |OK  |
-|:-|:----:|:--:|
-|AC|8     |8   |
-|AL|45    |41  |
-|AM|51    |19  |
-|AP|11    |10  |
-|BA|231   |154 |
-|CE|135   |101 |
-|DF|1023  |751 |
-|ES|304   |245 |
-|GO|429   |282 |
-|MA|69    |44  |
-|MG|1334  |973 |
-|MS|193   |127 |
-|MT|164   |117 |
-|PA|105   |81  |
-|PB|52    |33  |
-|PE|223   |179 |
-|PI|30    |20  |
-|PR|961   |653 |
-|RJ|733   |522 |
-|RN|77    |54  |
-|RO|61    |14  |
-|RR|6     |5   |
-|RS|532   |397 |
-|SC|825   |618 |
-|SE|38    |23  |
-|SP|3249  |2102|
-|TO|66    |30  |
-|ZZ|71    |68  |
+|UF|TOTAL |OK  |UF|TOTAL |OK  |
+|:-|:----:|:--:|:-|:----:|:--:|
+|AC|8     |8   |PB|52    |33  |
+|AL|45    |41  |PE|223   |179 |
+|AM|51    |19  |PI|30    |20  |
+|AP|11    |10  |PR|961   |653 |
+|BA|231   |154 |RJ|733   |522 |
+|CE|135   |101 |RN|77    |54  |
+|DF|1023  |751 |RO|61    |14  |
+|ES|304   |245 |RR|6     |5   |
+|GO|429   |282 |RS|532   |397 |
+|MA|69    |44  |SC|825   |618 |
+|MG|1334  |973 |SE|38    |23  |
+|MS|193   |127 |SP|3249  |2102|
+|MT|164   |117 |TO|66    |30  |
+|PA|105   |81  |ZZ|71    |68  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
