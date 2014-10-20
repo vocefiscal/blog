@@ -36,9 +36,9 @@ estão no [repositório](https://github.com/vocefiscal/vocefiscal-backend). Em p
 aplicamos binarização como pré-processamento, para destacar o texto do fundo.
 
 
-<img src="https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00.jpg" style="width:100">
+<img src="https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00.jpg" width="100">
 
-<img src="https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00-binary.jpg" style="width:100">
+<img src="https://raw.githubusercontent.com/vocefiscal/vocefiscal-backend/master/samples/00-binary.jpg" width="100">
 
 Após o pré-processamento, o reconhecimento de caracteres é capaz de recuperar a maior parte do texto na 
 imagem, especialmente quando o treinamento é realizado com imagens já 
@@ -78,8 +78,7 @@ Utilizamos um programa bem simples em Python para verificar se os dados
 preenchidos pelos usuários são compatíveis com as informações recuperadas a 
 partir do resumo da correspondência. Em caso negativo ou se a correspondência 
 não for encontrada, o programa apresenta a imagem e solicita tratamento manual. 
-Por isso, o procedimento é semi-automático e foi bastante demorado para uma base 
-tão grande.
+Por isso, o procedimento é semi-automático e toma bastante tempo para uma base grande.
 
 Como resultado, fomos capazes de confirmar a origem de 7671 dos 11530 Boletins 
 de Urna recebidos, que seguem agora para extração das demais informações. 
