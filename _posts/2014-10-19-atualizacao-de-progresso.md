@@ -44,28 +44,30 @@ Após o pré-processamento, o reconhecimento de caracteres é capaz de recuperar
 imagem, especialmente quando o treinamento é realizado com imagens já 
 binarizadas:
 
-> Justiça Eleitorall
-> Tribunal Regional Eleitoral [sp]
-> Boletim de Urna
-> Eleições Gerais 2014
-> iº Turno
-> (05/10/2014)
-> Município 63134
-> CARAPlCUlBA
-> Zona Eleitoral 0303
-> Local de Votação 1384
-> Seção Eleitoral 0379
-> Eleitores aptos 0340
-> Comparecimento 0274
-> Eleitores faltosos 0066
-> Código identificação UE 01564145
-> Data de abertura da UE 05/10/2014
-> Horário de abertura 08:00 00
-> Data de fechamento da UE 05/10/2014
-> Horário de fechamento 17:01:01
-> RESUMO DA CORRESPONDÊNClA
-> 630:382
-> Código Verificador: 68950
+```
+Justiça Eleitorall
+Tribunal Regional Eleitoral [sp]
+Boletim de Urna
+Eleições Gerais 2014
+iº Turno
+(05/10/2014)
+Município 63134
+CARAPlCUlBA
+Zona Eleitoral 0303
+Local de Votação 1384
+Seção Eleitoral 0379
+Eleitores aptos 0340
+Comparecimento 0274
+Eleitores faltosos 0066
+Código identificação UE 01564145
+Data de abertura da UE 05/10/2014
+Horário de abertura 08:00 00
+Data de fechamento da UE 05/10/2014
+Horário de fechamento 17:01:01
+RESUMO DA CORRESPONDÊNClA
+630:382
+Código Verificador: 68950
+```
 
 Utilizamos esse procedimento para fazer uma triagem e organizar a base de 
 imagens recebida pelo aplicativo. Para cada Boletim de Urna recebido, utilizamos 
@@ -89,7 +91,8 @@ terceira base (**base-organizada.zip**) contém os metadados organizados por mun
 eleitoral. Os Boletins de Urna cuja origem não foi confirmada ainda não foram 
 descartados, mas precisarão de outra estratégia de confirmação, possivelmente o 
 código de carga impresso no final do documento. As estatísticas de submissão por 
-estado podem ser encontradas abaixo:
+estado podem ser encontradas abaixo, onde a última coluna exibe quantas submissões daquele estado tiveram
+origem confirmada:
 
 |UF|TOTAL |OK  |
 |:-|:----:|:--:|
