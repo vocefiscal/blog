@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Relatório parcial do 1º turno
-tagline: Após duas semanas de muito trabalho, compartilhamos relatório técnico com o progresso da análise
-tags : [boletim-de-urna]
+title: "Relatório parcial do 1º\_turno"
+tagline: "Após duas semanas de muito trabalho, compartilhamos relatório técnico com o progresso da análise"
+tags: 
+  - "boletim-de-urna"
+published: true
 ---
 
 O tratamento das imagens dos [Boletins de
@@ -19,7 +21,7 @@ O objetivo da costura é aprimorar a usabilidade, para produzir uma imagem únic
 de fácil comparação visual com o Boletim de Urna eletrônico [publicado no site
 do TSE](http://www.tse.jus.br/eleicoes/eleicoes-2014/boletim-de-urna-na-web). A
 extração de informação é a etapa mais crítica, pois permite verificar se as
-quantidades de votos são compatíveis entre Boletim de Urna impresso e234
+quantidades de votos são compatíveis entre Boletim de Urna impresso e eletrônico.
 Para a primeira etapa, utlizamos o algoritmo de costura da biblioteca em código
 aberto [OpenCV](http://opencv.org/). Os resultados preliminares foram animadores
 e gerados rapidamente para Boletins de Urna compostos por poucas imagens,
