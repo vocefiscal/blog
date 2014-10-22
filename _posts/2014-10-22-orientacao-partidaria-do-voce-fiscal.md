@@ -31,6 +31,8 @@ Nossos esforços este ano serão dirigidos à conscientização sobre a necessid
 
 **Esclarecemos, portanto, que o Você Fiscal não confirma, nega, nem deve ser associado a denúncias de fraude exceto se algum posicionamento for publicado oficialmente pelo projeto neste blog** (o que ainda não aconteceu).
 
+Os dados dos BUs são abertos para pesquisa independente e consulta pública: [https://github.com/vocefiscal/vocefiscal-backend](https://github.com/vocefiscal/vocefiscal-backend). Não faremos análise relativa a denúncias específicas, mas se encontrarmos qualquer divergência, em qualquer cidade que seja, ela será publicada e divulgada. Paralelamente, todos estão livres para fazer suas próprias análises na base de dados e tirarem suas próprias conclusões (não queremos confiança cega nem no TSE, nem em nós mesmos).
+
 E, acima de qualquer discussão partidária, [convidamos todos a fiscalizarem conosco este 2º turno](http://www.vocefiscal.org/vemproBU/), dia 26 de outubro. Obrigado!
 
 Cordialmente,<br />
