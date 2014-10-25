@@ -33,15 +33,19 @@ Depois de tirar as fotos, envie pelo aplicativo ou para http://www.vocefiscal.or
 **Perguntas frequentes:**
 
 "Posso pedir uma via do BU para fotografar em casa?"
+
 Os mesários podem imprimir até 15 vias do BU. Aproveite que você chegou cedo e converse com os responsáveis de cada seção, explique o projeto e o que você vai fazer com os boletins de urna e peça para que imprimam uma via adicional para você. Vai depender da boa vontade do mesário, mas muitos fiscais conseguiram no 1º turno. Vale a pena tentar.
 
 "Posso fotografar só os dados da votação para presidente?""
+
 Para que as suas fotos possam ser comparadas com os dados divulgados pelo TSE, precisamos das informações que constam no início do BU, como o código de identificação da una eletrônica e o número de correspondência. Assim, você precisa tirar fotos de todos os trechos do BU, para que possamos comprovar a origem dos dados e compará-los com a versão digital do TSE.
 
 "Posso filmar o BU?"
+
 Não, pois extração dos dados para análise dos BUs é feita a partir de fotos, não de vídeo. [Saiba como é feita a análise das imagens dos BUs.](http://www.vocefiscal.org/blog/atualizacao-de-progresso/)
 
 "Posso tirar fotos panorâmicas?"
+
 Não recomendamos, pois o sistema de captura de fotos panorâmicas não é feito para preservar texto. Ou seja, as informações do BU podem não ficar reconhecíveis para a análise.
 
 Se tiver qualquer outra dúvida, acesse a [FAQ do Você Fiscal](http://www.vocefiscal.org/faq/).
