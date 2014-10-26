@@ -31,7 +31,9 @@ Com o [aplicativo Você Fiscal](https://play.google.com/store/apps/details?id=or
 
 Se você quer contribuir com a fiscalização mas usa iPhone, Windows Phone ou não tem smartphone, [este vídeo](http://bit.ly/vocefiscal-sem-app) explica como fazer, utilizando a técnica da pinça com qualquer câmera.
 
-Depois de tirar as fotos, envie pelo aplicativo ou para [http://www.vocefiscal.org/](http://www.vocefiscal.org/). Pronto, em poucos minutos você contribuiu muito para melhorar a transparência eleitoral em nosso país.
+Depois de tirar as fotos, envie pelo aplicativo ou para **[vocefiscal.org/upload](http://www.vocefiscal.org/upload)**. Pronto, em poucos minutos você contribuiu muito para melhorar a transparência eleitoral em nosso país.
+
+<p style="text-align: center;"><a href="http://www.vocefiscal.org/upload" target="_blank" class="btn btn-large btn-success">Envie seu Boletim de Urna</a></p>
 
 ## Perguntas frequentes:
 
