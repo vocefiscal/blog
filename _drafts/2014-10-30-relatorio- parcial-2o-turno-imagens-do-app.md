@@ -11,6 +11,6 @@ A partir de agora, as imagens segue para a triagem, extração de informação v
 
 [##Entenda como são analisadas as imagens dos BUs recebidos (relatório parcial do 1º turno)](http://www.vocefiscal.org/blog/atualizacao-de-progresso/)
 
-Publicamos no repositório 
+A base original das imagens de Boletins de Urna do 2º turno recebidas pelo aplicativo do Você Fiscal já estão disponíveis no [repositório](https://github.com/vocefiscal/vocefiscal-backend) 
 
 
