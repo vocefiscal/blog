@@ -15,7 +15,7 @@ A partir de agora, estas imagens seguem para a triagem, extração de informaç�
 
 A base original com os Boletins de Urna do 2º turno enviados através do aplicativo Você Fiscal já está disponível no [repositório](https://github.com/vocefiscal/vocefiscal-backend). Os dados dos BUs são abertos para pesquisa independente e consulta pública. Grupos ou pesquisadores que desejarem fazer sua própria checagem das informações podem utilizá-la ––não queremos confiança cega nem no TSE, nem em nós mesmos.
 
-A partir da publicação, pelo TSE, da base agregada dos Boletins de Urna em formato digital será possível realizar a análise automatizada, comparando as informações divulgadas pelo TSE com os BUs enviados pelos fiscais.
+A partir da [base agregada dos Boletins de Urna em formato digital publicada pelo TSE](http://www.tse.jus.br/hotSites/pesquisas-eleitorais/resultados_anos/boletim_urna/boletim_urna_2_turno-2014.html) será possível realizar a análise automatizada, comparando as informações divulgadas pelo TSE com os BUs enviados pelos fiscais.
 
 Se você deseja conferir individualmente se os dados do BU que fotografou batem com a versão digital publicada pelo TSE, veja como fazê-lo aqui: [http://www.vocefiscal.org/vemproBU/#conferencia](http://www.vocefiscal.org/vemproBU/#conferencia).
 
