@@ -7,7 +7,7 @@ tagline: Publicamos a base com cerca de 9 mil imagens de BUs enviadas pelo app V
 published: true
 ---
 
-Às 23:59 da terça-feira, 28 de outubro, encerramos o recebimento das imagens que os fiscais de todo o Brasil enviaram através do [aplicativo Você Fiscal](https://play.google.com/store/apps/details?id=org.vocefiscal) e pelo [site](vocefiscal.org/upload).
+Às 23:59 da terça-feira, 28 de outubro, encerramos o recebimento das imagens que os fiscais de todo o Brasil enviaram através do [aplicativo Você Fiscal](https://play.google.com/store/apps/details?id=org.vocefiscal) e pelo [site](http://www.vocefiscal.org/upload/).
 
 A partir de agora, estas imagens segue para a triagem, extração de informação via reconhecimento de caracteres e conferência.
 
