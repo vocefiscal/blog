@@ -17,7 +17,7 @@ A base original com os Boletins de Urna do 2º turno enviados através do aplica
 
 O TSE deve publicar esta semana a base agregada dos Boletins de Urna em formato digital. A partir dela será possível realizar a análise automatizada, comparando as informações divulgadas pelo TSE com os BUs enviados pelos fiscais.
 
-Se você deseja conferir individualmente se os dados do BU que fotografou batem com a versão digital publicada pelo TSE, veja como fazê-lo aqui: http://www.vocefiscal.org/vemproBU/#conferencia.
+Se você deseja conferir individualmente se os dados do BU que fotografou batem com a versão digital publicada pelo TSE, veja como fazê-lo aqui: [http://www.vocefiscal.org/vemproBU/#conferencia](http://www.vocefiscal.org/vemproBU/#conferencia).
 
 Em breve acrescentaremos ao repositório a base de imagens recebidas pelo site, com mais de 8 mil BUs enviados através do [vocefiscal.org/upload](vocefiscal.org/upload). Todo o progresso da análise será divulgado publicamente aqui no blog do Você Fiscal e em nossa página do Facebook.
 
