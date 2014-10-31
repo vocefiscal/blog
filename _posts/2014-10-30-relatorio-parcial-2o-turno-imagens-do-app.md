@@ -9,7 +9,7 @@ published: true
 
 Às 23:59 da terça-feira, 28 de outubro, encerramos o recebimento das imagens que os fiscais de todo o Brasil enviaram através do [aplicativo Você Fiscal](https://play.google.com/store/apps/details?id=org.vocefiscal) e pelo [site](http://www.vocefiscal.org/upload/).
 
-A partir de agora, estas imagens segue para a triagem, extração de informação via reconhecimento de caracteres e conferência.
+A partir de agora, estas imagens seguem para a triagem, extração de informação via reconhecimento de caracteres e conferência.
 
 ###[Entenda como são analisadas as imagens dos BUs recebidos (relatório parcial do 1º turno)](http://www.vocefiscal.org/blog/atualizacao-de-progresso/)
 
