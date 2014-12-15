@@ -61,6 +61,8 @@ Diego e Helder
 ## Dúvidas
 Se tiver dúvidas sobre este artigo ou sobre como usar o site de conferência coletiva, por favor, deixe um comentário abaixo para que possamos atualizar este texto com a resposta. Se você souber a resposta de alguma pergunta feita por outra pessoa, por favor, colabore respondendo. Obrigado!
 
+* Há relatos de usuários do Firefox que tiveram problemas com o site. Estamos investigando mas, enquanto isso, pedimos que usem o Google Chrome.
+
 ## Veja também:
 
 [E se o Você Fiscal não encontrar nenhuma fraude?](http://www.vocefiscal.org/blog/e-se-o-voce-fiscal-nao-encontrar-nenhuma-fraude/)
