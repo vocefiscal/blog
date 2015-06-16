@@ -4,7 +4,7 @@ title: Resultado da conferência coletiva dos Boletins de Urna
 tags:
 - "boletim-de-urna"
 tagline: Até agora, nenhuma discrepância encontrada pela abordagem automática foi confirmada pela conferência manual.
-published: false
+published: true
 ---
 
 ## Conferência coletiva
