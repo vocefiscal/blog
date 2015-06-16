@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resultado da conferência coletiva dos Boletins de Urna
+title: Resultado da conferência coletiva dos Boletins de Urna do 2º Turno
 tags:
 - "boletim-de-urna"
 tagline: Até agora, nenhuma discrepância encontrada pela abordagem automática foi confirmada pela conferência manual.
