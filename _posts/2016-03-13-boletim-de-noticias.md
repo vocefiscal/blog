@@ -33,7 +33,7 @@ O processamento continua em ritmo vagaroso. Relembrando:
 
 Considerando toda a informação acima, entendemos ser mais interessante dedicar o tempo disponível ao planejamento da fiscalização das eleições de 2016, pois qualquer técnica desenvolvida perderá utilidade com a introdução dos códigos QR nos Boletins de Urna. Aproveito a oportunidade para agradecer novamente pelo apoio, doações, participação e engajamento da nossa comunidade!
 
-Abraços,
+Abraços,<br />
 Diego Aranha
 
 ## Veja também:
