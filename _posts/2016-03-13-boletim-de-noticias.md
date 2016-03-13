@@ -19,7 +19,7 @@ O voto impresso foi aprovado para reintrodução nas eleições de 2018, após [
 
 O TSE anunciou poucos dias após nossa última atualização a introdução de um código QR com assinatura digital nos Boletins de Urna das próximas eleições. Esse recurso deve facilitar em muito a aquisição de dados, pois toda a dificuldade com extração de informação via reconhecimento de caracteres torna-se trivial. O manual com a especificação [já foi publicado](http://www.tse.jus.br/eleicoes/eleicoes-2016/qr-code-no-boletim-de-urna-manual-para-a-criacao-de-aplicativos-de-leitura). Há intenção do projeto continuar em 2016 nesses moldes, agora com foco na qualidade da amostra. É crédito do Você Fiscal demonstrar a clara demanda por mecanismos de fiscalização das eleições por parte da sociedade.
 
-O TSE também realizou a terceira edição dos Testes Públicos de Segurança do Sistema Eletrônico de Votação entre os dias 08 e 10 de Março. Estive presente como observador externo indicado pela Sociedade Brasileira de Computação na Comissão Avaliadora e farei uma atualização mais detalhada quando toda a documentação se tornar pública no [site do evento](www.tse.jus.br/hotSites/testes-publicos-seguranca-2016/), respeitando o protocolo.
+O TSE também realizou a terceira edição dos Testes Públicos de Segurança (TPS) do Sistema Eletrônico de Votação entre os dias 08 e 10 de Março. Estive presente como observador externo indicado pela Sociedade Brasileira de Computação na Comissão Avaliadora e farei uma atualização mais detalhada quando toda a documentação se tornar pública no [site do evento](www.tse.jus.br/hotSites/testes-publicos-seguranca-2016/), respeitando o protocolo.
 
 ## Progresso
 
