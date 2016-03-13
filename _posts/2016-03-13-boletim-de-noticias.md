@@ -23,11 +23,16 @@ O TSE também realizou a terceira edição dos Testes Públicos de Segurança do
 
 ## Progresso
 
-A auditoria solicitada pelo PSDB no final de 2014 já foi finalizada e o relatório pode ser encontrado na página do [Fórum do Voto Eletrônico](http://www.brunazo.eng.br/voto-e/), junto com um artigo mais curto publicado no II Workshop de Tecnologia Eleitoral. A auditoria considerou uma base menor, porém melhor distribuída, e não encontrou divergências (página 138 do relatório). Os resultados parciais do nosso projeto colaboraram indiretamente com a auditoria.
+A auditoria solicitada pelo PSDB no final de 2014 já foi finalizada e o relatório pode ser encontrado na página do [Fórum do Voto Eletrônico](http://www.brunazo.eng.br/voto-e/), junto com um artigo mais curto publicado no [II Workshop de Tecnologia Eleitoral](http://sbseg2015.univali.br/anais/wte.html). A auditoria considerou uma base menor, porém melhor distribuída, e não encontrou divergências (página 138 do relatório). Os resultados parciais do nosso projeto colaboraram indiretamente com a auditoria.
 
-O processamento continua em ritmo vagaroso. Relembrando: a base do 2o Turno enviada pelo aplicativo está completamente finalizada (7.020 BUs) e não foram encontradas divergências; a base do 1o Turno enviada pelo aplicativo foi pré-processada (7.641 BUs), mas a quantidade de fotos ainda impossibilita uma verificação manual: há seções eleitorais individuais com mais de 50 fotos; a base do 2o Turno enviada pelo site do projeto (outros 7.200 BUs) impõe dificuldades pela heterogeneidade (fotos com diferentes resoluções, tamanhos, fundos, orientações, etc): nosso código para pré-processamento que confirmou origem de 87.1% dos BUs submetidos pelo aplicativo agora tem acurácia de apenas 12.4%, mesmo após ajustes. Do ponto de vista estatístico, essa última base possui viés e concentração parecidas com a base enviada pelo aplicativo, então o problema de qualidade da amostra ainda persiste.
+O processamento continua em ritmo vagaroso. Relembrando:
 
-Considerando toda a informação acima, entendemos ser mais prudente interessante o tempo disponível ao planejamento da fiscalização das eleições de 2016, pois qualquer técnica desenvolvida perderá utilidade com a introdução dos códigos QR nos Boletins de Urna. Aproveito a oportunidade para agradecer novamente pelo apoio, doações, participação e engajamento da nossa comunidade!
+* A base do 2o Turno enviada pelo aplicativo está completamente finalizada (7.020 BUs) e não foram encontradas divergências;
+* A base do 1o Turno enviada pelo aplicativo foi pré-processada (7.641 BUs), mas a quantidade de fotos ainda impossibilita uma verificação manual: há seções eleitorais individuais com mais de 50 fotos;
+* Abase do 2o Turno enviada pelo site do projeto (outros 7.200 BUs) impõe dificuldades pela heterogeneidade (fotos com diferentes resoluções, tamanhos, fundos, orientações, etc): nosso código para pré-processamento que confirmou origem de 87.1% dos BUs submetidos pelo aplicativo agora tem acurácia de apenas 12.4%, mesmo após ajustes. Do ponto de vista estatístico, essa última base possui viés e concentração parecidas com a base enviada pelo aplicativo, então o problema de qualidade da amostra ainda persiste.
+
+Considerando toda a informação acima, entendemos ser mais interessante dedicar o tempo disponível ao planejamento da fiscalização das eleições de 2016, pois qualquer técnica desenvolvida perderá utilidade com a introdução dos códigos QR nos Boletins de Urna. Aproveito a oportunidade para agradecer novamente pelo apoio, doações, participação e engajamento da nossa comunidade!
+
 Abraços,
 Diego Aranha
 
