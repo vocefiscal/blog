@@ -31,3 +31,7 @@ Integram a equipe desta edição do projeto os alunos Ivan Petrin e Luiz Nachtig
 
 Abraços,<br />
 Diego Aranha
+
+## Veja também:
+
+[Resultado da conferência coletiva dos Boletins de Urna do 2º Turno](http://www.vocefiscal.org/blog/resultados-da-conferencia-coletiva-dos-boletins-de-urna/)
